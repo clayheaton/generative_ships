@@ -1,0 +1,177 @@
+{
+  "/cockpit bays": {
+    "lowValue": 0,
+    "highValue": 4
+  },
+  "/wing height": {
+    "lowValue": 150,
+    "highValue": 300
+  },
+  "/stripe red": {
+    "lowValue": 0,
+    "highValue": 255
+  },
+  "/cockpit blue": {
+    "lowValue": 0,
+    "highValue": 255
+  },
+  "/stripe blue": {
+    "lowValue": 0,
+    "highValue": 255
+  },
+  "/seg. width": {
+    "lowValue": 50,
+    "highValue": 200
+  },
+  "/tail green": {
+    "lowValue": 0,
+    "highValue": 255
+  },
+  "/wing blue": {
+    "lowValue": 0,
+    "highValue": 255
+  },
+  "/stripe green": {
+    "lowValue": 0,
+    "highValue": 255
+  },
+  "/bendiness": {
+    "lowValue": 0,
+    "highValue": 1
+  },
+  "/bot. corners": {
+    "lowValue": 0,
+    "highValue": 100
+  },
+  "/tail height": {
+    "lowValue": 100,
+    "highValue": 200
+  },
+  "/wing green": {
+    "lowValue": 0,
+    "highValue": 255
+  },
+  "/wing shear": {
+    "lowValue": 0,
+    "highValue": 0
+  },
+  "/seg. height": {
+    "lowValue": 150,
+    "highValue": 250
+  },
+  "/flair height": {
+    "lowValue": 0,
+    "highValue": 52.85714340209961
+  },
+  "/wing rotation": {
+    "lowValue": 0,
+    "highValue": 0
+  },
+  "/num. wings": {
+    "lowValue": 0,
+    "highValue": 4
+  },
+  "/flair red": {
+    "lowValue": 0,
+    "highValue": 96.53571319580078
+  },
+  "/cockpit width": {
+    "lowValue": 50,
+    "highValue": 200
+  },
+  "/engines": {
+    "lowValue": 1,
+    "highValue": 4
+  },
+  "/flair green": {
+    "lowValue": 0,
+    "highValue": 105.64286041259766
+  },
+  "/flair shear": {
+    "lowValue": 0,
+    "highValue": 0.5
+  },
+  "/tail blue": {
+    "lowValue": 0,
+    "highValue": 255
+  },
+  "/tail width": {
+    "lowValue": 40,
+    "highValue": 150
+  },
+  "/wing positions": {"arrayValue": [
+    1,
+    1
+  ]},
+  "/seg. green": {
+    "lowValue": 0,
+    "highValue": 255
+  },
+  "/flair rotation": {
+    "lowValue": 0,
+    "highValue": 3.3659920692443848
+  },
+  "/cockpit height": {
+    "lowValue": 50,
+    "highValue": 250
+  },
+  "/seg. blue": {
+    "lowValue": 0,
+    "highValue": 255
+  },
+  "/segments": {
+    "lowValue": 0,
+    "highValue": 6
+  },
+  "/wing red": {
+    "lowValue": 0,
+    "highValue": 255
+  },
+  "/seg. red": {
+    "lowValue": 0,
+    "highValue": 255
+  },
+  "/cockpit checkBox": {"arrayValue": [
+    1,
+    1,
+    1,
+    1,
+    1
+  ]},
+  "/cockpit green": {
+    "lowValue": 0,
+    "highValue": 255
+  },
+  "/tail red": {
+    "lowValue": 0,
+    "highValue": 255
+  },
+  "/wing top": {
+    "lowValue": 20,
+    "highValue": 150
+  },
+  "/stripe side": {
+    "lowValue": 0,
+    "highValue": 4
+  },
+  "/flair width": {
+    "lowValue": 0,
+    "highValue": 20
+  },
+  "/flair blue": {
+    "lowValue": 0,
+    "highValue": 163.92857360839844
+  },
+  "/cockpit red": {
+    "lowValue": 0,
+    "highValue": 255
+  },
+  "/top corners": {
+    "lowValue": 0,
+    "highValue": 100
+  },
+  "/wing base": {
+    "lowValue": 20,
+    "highValue": 150
+  }
+}
